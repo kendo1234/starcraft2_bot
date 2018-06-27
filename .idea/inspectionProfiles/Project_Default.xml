@@ -11,6 +11,9 @@
           <option value="sc2.constants.PROBE" />
           <option value="sc2.constants.NEXUS" />
           <option value="sc2.constants.STALKER" />
+          <option value="sc2.constants.STARGATE" />
+          <option value="sc2.constants.VOIDRAY" />
+          <option value="zergrush.*" />
         </list>
       </option>
     </inspection_tool>
